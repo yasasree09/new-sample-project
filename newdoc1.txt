@@ -1,2 +1,4 @@
 new file created from branch1
 change from branch-1
+changes from branch-2
+
